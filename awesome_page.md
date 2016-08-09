@@ -7,3 +7,7 @@
 
 ## Lindsey and me
 ![Screenshot of Lindsey and Juan](https://github.com/lindsaymkelly/phase-0-gps-1/blob/markdown-skills/gps_with_lindsey.png)
+
+## Awesome Notes!
+
+These are some awesome notes.
