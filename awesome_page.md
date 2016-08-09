@@ -7,3 +7,7 @@
 
 ## Lindsey and me
 ![Screenshot of Lindsey and Juan](https://github.com/lindsaymkelly/phase-0-gps-1/blob/markdown-skills/gps_with_lindsey.png)
+
+### Notes!
+
+Git is pretty cool once you get the hang of it.
